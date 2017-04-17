@@ -1,0 +1,31 @@
+<head>
+<body>
+<h1>Bubble Sort Algorithm</h1>
+<hr>
+<p id="before"></p>
+<button onclick="sort()">Sort Array</button>
+<p id="after"></p>
+<br>
+<!--Copy Paste Below me-->
+<p>
+<button onclick='document.getElementById("code").style.display = "block"'>
+Show Code
+</button>
+
+<div id="code" style="display: none;"><pre><code title="The code for this project"><h4>
+<!--Copy paste your javascript code into this spot-->
+
+
+
+<!--Your javascript code should be above this-->
+</h4></code></pre></div>
+<!--Don't Copy Paste Past Here-->
+
+<p>
+
+<a href="../index.html">Table of Contents</a>
+
+
+</head>
+</body>
+<script src="bsort.js"></script>
